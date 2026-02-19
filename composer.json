@@ -1,6 +1,6 @@
 {
-  "name": "laada/wp-tools",
-  "description": "A set of tools used in and around the Laada's WordPress setup",
+  "name": "laada/jsonwp-tools-php",
+  "description": "A set of php tools used in and around the Laada's WordPress setup",
   "autoload": {
     "files": [
       "laada/autoload/index.php"
